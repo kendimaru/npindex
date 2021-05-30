@@ -1,12 +1,12 @@
 [tool.poetry]
 name = "npindex"
-version = "0.1.0"
+version = "0.1.1"
 description = "Provide an intuitive way to make ndarray indexing variable."
 authors = ["kenjimaru <kendimaru2@gmail.com>"]
 maintainers = ["kenjimaru <kendimaru2@gmail.com>"]
 readme = 'README.rst'
-# repository = '' todo
-# documentation = '' todo
+repository = 'https://github.com/kendimaru/npindex'
+# documentation = ''
 keywords = ['numpy', 'indexing', 'utility', 'slice']
 license = "MIT"
 
